@@ -1,20 +1,9 @@
-# gatsby-starter-deck
+* [Live](//gatsby-deck.netlify.com)
 
-[![deploys by netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+# What the heck is buildkite?
 
-Create presentations using Gatsby, React & Markdown. Inspired by Guillermo Rauch’s [deck on Next.js](https://deck.now.sh/).
+At Lifesize we landed on using Buildkite for our CI/CD pipeline needs. This goes over a high level view of what Buildkite is and some of the features.
 
-* [Demo](//gatsby-deck.netlify.com)
+For more information Buildkite, check out their ![site](https://buildkite.com/home) (and their docs are fantastic too!)
 
-## Usage
-
-    $ gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
-    $ cd my-slides
-    $ gatsby develop
-
-Then edit and extend your slides inside the `src/pages` directory. Navigate with the arrow keys.
-
-## Author
-
-* Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
+Built with [Gatsby Starter Deck](https://github.com/fabe/gatsby-starter-deck) from Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
