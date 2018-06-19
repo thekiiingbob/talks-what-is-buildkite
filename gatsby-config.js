@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/talks-what-is-buildkite",
   siteMetadata: {
     name: `Bob Lubecker`,
     title: `What is Buildkite?`,
