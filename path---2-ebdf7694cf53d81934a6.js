@@ -1,2 +1,0 @@
-webpackJsonp([0x8f0ce58d3892],{321:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>It’s a CI/CD Pipeline!</h1>",frontmatter:{image:"./images/pipe.jpg",angle:"30"}}},pathContext:{absolutePath:"/Users/blubecker/ls_work/presentations/what_is_buildkite/src/pages/2.md"}}}});
-//# sourceMappingURL=path---2-ebdf7694cf53d81934a6.js.map
