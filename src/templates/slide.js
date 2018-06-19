@@ -1,4 +1,5 @@
 import React from "react";
+import { withPrefix } from "gatsby-link";
 
 const colors = {
   color1: "rgba(283, 1, 228, 0.5)",
@@ -19,7 +20,9 @@ export default ({ data, pathContext, transition }) => (
       linear-gradient(${Number.parseInt(data.markdownRemark.frontmatter.angle) +
         25}deg, ${colors.color5}, ${colors.color4} 60%, ${
         colors.color3
-      }), url(${data.markdownRemark.frontmatter.image}) no-repeat center`,
+      }), url(${withPrefix(
+        data.markdownRemark.frontmatter.image
+      )}) no-repeat center`,
       backgroundSize: "100%"
     }}
   >
