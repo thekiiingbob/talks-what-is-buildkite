@@ -1,2 +1,0 @@
-webpackJsonp([0xd14b01e5042b],{320:function(e,t){e.exports={data:{markdownRemark:{html:'<h1>I guess that’s it… questions?</h1>\n<p><img src="./images/groundhog.gif"></p>',frontmatter:{image:"/images/jungle-pipe.jpg",angle:"15"}}},pathContext:{absolutePath:"/Users/blubecker/ls_work/presentations/what_is_buildkite/src/pages/13.md"}}}});
-//# sourceMappingURL=path---13-4095d60c4843d8eb7a0b.js.map
