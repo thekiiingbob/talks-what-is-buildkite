@@ -13,6 +13,7 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-remark-smartypants`,
+          `gatsby-remark-copy-linked-files`,
           {
             resolve: `gatsby-remark-prismjs`,
             options: {
