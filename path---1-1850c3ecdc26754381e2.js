@@ -1,0 +1,2 @@
+webpackJsonp([44611889172531],{316:function(e,t){e.exports={data:{markdownRemark:{html:'<h1>What the heck is</h1>\n<p><img src="./images/buildkite-logo.png" alt="BuildKite"></p>',frontmatter:{image:"/images/kite.jpg",angle:"60"}}},pathContext:{absolutePath:"/Users/blubecker/ls_work/presentations/what_is_buildkite/src/pages/1.md"}}}});
+//# sourceMappingURL=path---1-1850c3ecdc26754381e2.js.map
