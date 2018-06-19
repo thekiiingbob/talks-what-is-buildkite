@@ -1,0 +1,2 @@
+webpackJsonp([24461200302109],{323:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Where does our code run?</h1>\n<p>Buildkite Agents can be pretty much whatever we want!</p>\n<h2>AWS</h2>\n<p>Buildkite provides a Cloud Formation stack to give you a pool of elastic agents to run on your own infrastructure.</p>",frontmatter:{image:"./images/cloud.jpg",angle:"5"}}},pathContext:{absolutePath:"/Users/blubecker/ls_work/presentations/what_is_buildkite/src/pages/4.md"}}}});
+//# sourceMappingURL=path---4-fc5abeeae72fabe06ab4.js.map
